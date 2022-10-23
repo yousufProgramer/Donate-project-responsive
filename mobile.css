@@ -1,0 +1,19 @@
+.nav-custom li a{
+    text-align: center;
+    margin-top: 10px;
+}
+.nav-custom{
+    padding: 20px;
+}
+.carousel-img img{
+    height: 500px;
+    width: auto;
+}
+.carousel-caption{
+    position: absolute;
+    margin-top: 100px;
+}
+.carousel-caption h2{
+    font-size: 20px;
+}
+
